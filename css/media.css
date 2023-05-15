@@ -1,0 +1,7 @@
+@media(max-width:500px)
+{
+    .main{padding: 15px 0px ;}
+    .main li {display: none;}
+    .main .fa-solid,.fa-magnifying-glass{display: none;}
+    .main .bb{display: block;}
+}

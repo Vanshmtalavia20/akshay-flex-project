@@ -1,0 +1,83 @@
+/* <!-- .main starts -->*/
+
+.main
+{
+    /* height: 200px; */
+    background: dimgray;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 100px ;
+
+}
+.main li 
+{
+    display: inline;
+    margin-right: 40px;
+}
+
+.main .li1
+{
+    color: lightseagreen;
+}
+
+.main a
+{
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main .bb
+{
+    display: none;
+}
+
+                    /* .main ends here */
+
+                    /* .nav starts here */
+
+
+.nav
+{
+    height: 500px;
+    background: url(https://cdn.shopify.com/s/files/1/0072/0791/1481/files/oar3-sl2_2592x.webp?v=1654223653);
+    background-position: 70% 100%;
+    padding: 70px 50px;
+    /* background-repeat: no-repeat; */
+}
+
+
+                               /* .nav ends here */
+
+
+                             /* .n starts here */
+
+
+
+
+.n
+{
+  height: 300px;
+  /* padding: 100px; */
+  background: lightblue;
+  border: 2px solid;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+
+.n .n1
+{
+    /* padding: 30px; */
+    width: 25%;
+    border: 2px solid;
+    position: relative;
+}
+
+.n1 img
+{
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
